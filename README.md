@@ -64,7 +64,7 @@ Performing parallel CWT computation on the GPU using PyTorch results in a signif
 Clone and install:
 
 ```sh
-git clone https://github.com/tomrunia/PyTorchWavelets.git
+git clone https://github.com/Solve-Geosolutions/PyTorchWavelets.git
 cd PyTorchWavelets
 pip install -r requirements.txt
 python setup.py install
